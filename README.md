@@ -1,6 +1,6 @@
 # Hi there, I am Aleysha 👋
 
-#### 👩🏻‍🎓First year Data Engineering student from Selangor
+#### 👩🏻‍🎓Third year Data Engineering student from Selangor
 
 #### 📚 Learning the fundamentals of GitHub
 
